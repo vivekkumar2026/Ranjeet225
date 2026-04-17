@@ -1,5 +1,5 @@
 # 👋 I'm Ranjeet Kumar Maurya
-### Senior FullStack Developer | [cite_start]PHP, Laravel & Python Specialist [cite: 1, 6, 8]
+### Senior FullStack Developer |PHP, Laravel & Python 
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
